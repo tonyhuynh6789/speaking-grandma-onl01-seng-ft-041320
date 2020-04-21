@@ -19,7 +19,7 @@ def speak_to_grandma(phrase)
   elsif phrase.upcase == phrase
     "NO, NOT SINCE 1938!"
   else phrase.downcase == phrase
-    ""
+    "HUH?! SPEAK UP, SONNY!"
     
     
 end 
