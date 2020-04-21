@@ -13,5 +13,9 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def speak_to_grandma
+def speak_to_grandma(phrase)
+  if phrase.uppcase 
+    puts "HUH? SPEAK UP, SONNY!"
+  elsif
+    
 end 
